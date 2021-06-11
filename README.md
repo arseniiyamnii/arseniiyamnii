@@ -1,4 +1,30 @@
-### Hi there 👋
+# Hi there 👋
+## My name is Arsenii Yamnii
+Im from Belarus.  
+Now i live in Ural Mountains(It's not as romantic as it sounds)))  
+### My Top Tier technologies, that i use:
+`VIM`  
+`BASH`  
+`PYTHON`  
+`GIT`  
+`Linux`
+
+## My main FOSS projects:   
+[yabtm](https://github.com/arseniiyamnii/ya_btm) - Boilerplate template manager  
+[pycam](https://github.com/arseniiyamnii/camlock) - Lock you computer when you afk   
+[badge-gen](https://github.com/arseniiyamnii/badge-gen) - Generate bages  
+You can checkout any of that project
+## SOON
+- [ ] Telegram Bots
+- [ ] Docker(+compose)
+- [ ] Terraform
+- [ ] Ansible
+- [ ] Kubernetes
+- [ ] GitlabCI
+- [ ] My Dotfiles with aliases
+- [ ] Many new YABTM templates and HOOKS
+- [ ] HELM
+
 
 <!--
 **arseniiyamnii/arseniiyamnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

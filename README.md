@@ -1,7 +1,7 @@
 # Hi there 👋
 ## My name is Arsenii Yamnii
 Im from Belarus.  
-Now i live in Ural Mountains(It's not as romantic as it sounds)))  
+Now i live in Ural Mountains (*It's not as romantic as it sounds*)))  
 ### My Top Tier technologies, that i use:
 `VIM`  
 `BASH`  

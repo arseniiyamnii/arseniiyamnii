@@ -24,6 +24,7 @@ You can checkout any of that project
 - [ ] My Dotfiles with aliases
 - [ ] Many new YABTM templates and HOOKS
 - [ ] HELM
+- [ ] BookGenerator
 
 
 <!--

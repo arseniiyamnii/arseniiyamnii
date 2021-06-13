@@ -25,7 +25,7 @@ You can checkout any of that project
 - [ ] Many new YABTM templates and HOOKS
 - [ ] HELM
 - [ ] BookGenerator
-
+- [ ] MANpages to stardict
 
 <!--
 **arseniiyamnii/arseniiyamnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

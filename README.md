@@ -24,6 +24,7 @@ You can checkout any of that project
 - [ ] HELM
 - [ ] `BookGenerator`
 - [ ] `MANpages to stardict`
+- [ ] `Diary Bot`
 
 <!--
 **arseniiyamnii/arseniiyamnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

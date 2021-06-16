@@ -25,6 +25,7 @@ You can checkout any of that project
 - [ ] `BookGenerator`
 - [ ] `MANpages to stardict`
 - [ ] `Diary Bot`
+- [ ] `Local Spotify playlist Generator`
 
 <!--
 **arseniiyamnii/arseniiyamnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

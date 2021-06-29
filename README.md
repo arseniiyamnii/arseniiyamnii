@@ -26,6 +26,7 @@ You can checkout any of that project
 - [ ] `MANpages to stardict`
 - [ ] `Diary Bot`
 - [ ] `Local Spotify playlist Generator`
+- [ ] `linux command seaker`
 
 <!--
 **arseniiyamnii/arseniiyamnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
